@@ -2,3 +2,4 @@ practicing commit
 
 
 //adding changes from local as well to create merge conflict
+creating merge conflict
